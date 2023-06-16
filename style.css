@@ -1,0 +1,52 @@
+body {
+    background: #EDC5AB;
+    font-family: 'Comic sans MS';
+}
+
+.container {
+    padding: 40px;
+    background: #ebeced;
+    border: 1px solid black;
+    margin-bottom: 40px;
+    box-shadow: 10px 10px 0px #37745B, 10px 10px 0px 1px black, 20px 20px 0px #8B9D77, 20px 20px 0px 1px black;
+  }
+  
+h2 {
+    color: #174e51;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+  
+h3 {
+    color: #217074;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+  
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.section {
+    padding: 0px 100px;
+}
+
+span {
+    text-decoration: line-through;
+    
+}
+
+
+
+.genialos {
+    text-align: center;
+}
+
+.oui {
+    padding: 40px;
+}
+
+h1 {
+    color: #174e51;
+}
